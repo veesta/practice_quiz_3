@@ -1,0 +1,31 @@
+---
+title:  "6060 Quiz 3 Practice"
+author: "Veesta Mavandad"
+output:
+  pdf_document:
+    number_sections: yes
+    toc_depth: 3
+    
+---
+# Question 1 
+
+The rating-complaints correlation is stronger than the rating-critical correlation Δr = .67, 95% CI[.32, 1.04, p= .0001
+
+#Question 2
+
+The rating-complaints correlation is stronger than the raises-critical correlation Δr = .45, 95% CI[.15, .81, p=.003]
+
+#Question 3
+The original study utilized a sample size of N=30 and produced a correlation between rating-privileges of .43. The confidence interval of this sample reveals that a population correlation of .08 to .68 could be responsible for the observed sample correlation of .43, 95% CI[.08, .68]. But, due to sampling error alone we could get a replication correlation out of this range as indicated by the prediction interval, 95% PI[.05, .74].  
+
+#Question 4
+
+Identifing what replication sample size is needed to ensure a prediction interval of .50 is not meaningful given the original study's small sample size (N=30). The estimate from the replication sample would be more meaningful given it's larger sample size. However, if you were interested in calculating this, you'd do trial and error with rep.n= value until you get a PI that is what you wanted. After N=7000, the prediction interval does not change. Cannot get an interval width less than .6. But, if you adjust the N original, you can get a smaller width. 
+
+#Question 5 
+
+Despite using a sample size of n=1000, the correlation between rating-privileges for the new paper did not appear to be different than the correlation obtain from the present study with a sample size of n=30, Δr = .33, 95% CI[-.023, .59], p= .065. 
+
+#Question 6 
+
+For the present study, the plausible range of population correlations that could have caused the sample correlation of r=.43 is between 95% CI[.083, .68]. Therefore, if the present study was the only available study, one could conclude that there is likely a weak to strong positive correlation between rating and privileges. However, a subsequent study found that the sample correlation of r=.1, as obtained in their study where n=1000, could be explained by a plausible range of population correlations between 95% CI[-.023, .59]. Therefore, one can no longer say that a positive correlation is expected as a weak negative correlation is also plausible. Additionally, despite using a larger sample, the subsequent study's correlation and confidence interval was not meaningfully different that the original study. In conclusion, further studies are necessary before an aggragate of their findings can be used to estimate the true population correlation between rating and privileges. 
